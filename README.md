@@ -21,15 +21,14 @@ uppercase+date+symble<br />
 ## Exemple
 
 company2014<br />
-company*2014<br />
-compay2014*<br />
+company$2014<br />
+compay2014$<br />
 
 COMPANY2014<br />
 COMPANY2014<br />
-COMPANY*2014<br />
-COMPANY2014*<br />
+COMPANY$2014<br />
+COMPANY2014$<br />
 
-
-Company2014
-Company*2014
-Compay2014*
+Company2014 <br />
+Company$2014<br />
+Compay2014$<br />
