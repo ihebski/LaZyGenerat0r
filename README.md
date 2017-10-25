@@ -1,33 +1,33 @@
 # LaZyGenerat0r
-lazy gen is python script that generate wordlist based on companies names,used basically for WPA/WPA2 bruteforcing attack .
+lazy gen is python script that generate wordlist based on companies name,used basically for WPA/WPA2 bruteforcing attack.
 
 # Raison to write such a script
 
-During a long wireless pentesting exercises for multiple company , I noticed that the availble wordlists are always failed against the customized passwords set by the company ,In the most cases ,passphrase includes the company name, date and sometimes a symble .What if we generate a list that includes this one .
+During a long wireless pentesting exercise for multiple companies, I have noticed that the available wordlists are always failed against the customized passwords set by the company, In the most cases, passphrase includes the company name, date and sometimes symbol.What if we generate a list that includes all of that.
 
 # How it works
 
-Easy and nothing special :p 
-possible generated strings 
+Easy and nothing special :p <br />
+possible generated strings <br />
 
-lowercase+date
-lowercase+symble+date
-lowercase+date+symble
+lowercase+date<br />
+lowercase+symble+date<br />
+lowercase+date+symble<br />
 
-uppercase+date
-uppercase+symble+date
-uppercase+date+symble
+uppercase+date<br />
+uppercase+symble+date<br />
+uppercase+date+symble<br />
 
 ## Exemple
 
-company2014
-company*2014
-compay2014*
+company2014<br />
+company*2014<br />
+compay2014*<br />
 
-COMPANY2014
-COMPANY2014
-COMPANY*2014
-COMPANY2014*
+COMPANY2014<br />
+COMPANY2014<br />
+COMPANY*2014<br />
+COMPANY2014*<br />
 
 
 Company2014
