@@ -32,3 +32,6 @@ COMPANY2014$<br />
 Company2014 <br />
 Company$2014<br />
 Compay2014$<br />
+
+# Contribute
+I know its an ugly code ,work still in progress to add more and more cases ,fork and us to create a good wordlist generator
